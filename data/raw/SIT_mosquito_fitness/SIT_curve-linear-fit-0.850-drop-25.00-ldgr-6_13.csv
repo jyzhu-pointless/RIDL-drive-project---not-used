@@ -1,0 +1,12 @@
+generation,size,female_size,fertile_female_size,rate_dr,rate_has_drive,drive_efficiency,drop_ratio,low_density_growth_rate,density_growth_curve
+1,78486,49454,1,0.0,0.0,0.0,25.0,6.0,linear
+2,78506,49458,1,0.0,0.0,0.0,25.0,6.0,linear
+3,78865,49796,1,0.0,0.0,0.0,25.0,6.0,linear
+4,80528,50828,1,0.0,0.0,0.0,25.0,6.0,linear
+5,79346,50473,1,0.0,0.0,0.0,25.0,6.0,linear
+6,77877,49739,1,0.0,0.0,0.0,25.0,6.0,linear
+7,77366,49446,1,0.0,0.0,0.0,25.0,6.0,linear
+8,79178,50250,1,0.0,0.0,0.0,25.0,6.0,linear
+9,78406,49804,1,0.0,0.0,0.0,25.0,6.0,linear
+10,78368,49922,1,0.0,0.0,0.0,25.0,6.0,linear
+
